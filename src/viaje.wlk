@@ -29,5 +29,3 @@ class Viaje {
 
 const viaje1 = new Viaje(origen=garlic,destino=toninas,transporte=avion)
 const viaje2 = new Viaje(origen=toninas,destino=goodAirs,transporte=avion)
-const viajeAGarlic = new Viaje(origen = pabloHari.localidadDeOrigen(), destino = garlic,transporte = avion)
-const viajeASilver = new Viaje(origen = garlic, destino = silver,transporte = avion)
